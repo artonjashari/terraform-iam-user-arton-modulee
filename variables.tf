@@ -1,7 +1,11 @@
-variable "access_key" {
+variable "user_name" {
   
 }
 
-variable "secret_key" {
+variable "policy_name" {
+  
+}
+
+variable "policy_document" {
   
 }

@@ -1,3 +1,3 @@
 output "password" {
-  value = module.user-arton-modulee
+  value = aws_iam_user_login_profile.example.password
 }
